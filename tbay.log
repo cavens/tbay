@@ -1,0 +1,484 @@
+DEBUG:root:pre highest
+DEBUG:root:pre highest
+DEBUG:root:pre print
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre for
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre for
+DEBUG:root:pre for
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre for
+DEBUG:root:71
+DEBUG:root:88
+DEBUG:root:73
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre for
+DEBUG:root:130
+DEBUG:root:<__main__.User object at 0x28ee850>
+DEBUG:root:155
+DEBUG:root:<__main__.User object at 0x28f5a10>
+DEBUG:root:97
+DEBUG:root:<__main__.User object at 0x290f0d0>
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre for
+DEBUG:root:108
+DEBUG:root:User1
+DEBUG:root:130
+DEBUG:root:User2
+DEBUG:root:105
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(1,)
+DEBUG:root:pre for
+DEBUG:root:87
+DEBUG:root:User1
+DEBUG:root:pre for
+DEBUG:root:180
+DEBUG:root:User1
+DEBUG:root:87
+DEBUG:root:User2
+DEBUG:root:153
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(50,)
+DEBUG:root:pre for
+DEBUG:root:130
+DEBUG:root:User1
+DEBUG:root:62
+DEBUG:root:User2
+DEBUG:root:152
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(53,)
+DEBUG:root:pre for
+DEBUG:root:145
+DEBUG:root:User1
+DEBUG:root:135
+DEBUG:root:User2
+DEBUG:root:139
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(53,)
+DEBUG:root:pre for
+DEBUG:root:125
+DEBUG:root:User1
+DEBUG:root:141
+DEBUG:root:User2
+DEBUG:root:191
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(53,)
+DEBUG:root:pre for
+DEBUG:root:183
+DEBUG:root:User1
+DEBUG:root:73
+DEBUG:root:User2
+DEBUG:root:107
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(53,)
+DEBUG:root:pre for
+DEBUG:root:86
+DEBUG:root:User1
+DEBUG:root:105
+DEBUG:root:User2
+DEBUG:root:109
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(53,)
+DEBUG:root:pre for
+DEBUG:root:188
+DEBUG:root:User1
+DEBUG:root:199
+DEBUG:root:User2
+DEBUG:root:124
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(53,)
+DEBUG:root:pre for
+DEBUG:root:187
+DEBUG:root:User1
+DEBUG:root:101
+DEBUG:root:User2
+DEBUG:root:59
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:71
+DEBUG:root:User1
+DEBUG:root:146
+DEBUG:root:User2
+DEBUG:root:115
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:109
+DEBUG:root:User1
+DEBUG:root:117
+DEBUG:root:User2
+DEBUG:root:158
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:188
+DEBUG:root:User1
+DEBUG:root:71
+DEBUG:root:User2
+DEBUG:root:165
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:176
+DEBUG:root:User1
+DEBUG:root:68
+DEBUG:root:User2
+DEBUG:root:140
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:78
+DEBUG:root:User1
+DEBUG:root:181
+DEBUG:root:User2
+DEBUG:root:160
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:73
+DEBUG:root:User1
+DEBUG:root:92
+DEBUG:root:User2
+DEBUG:root:157
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:145
+DEBUG:root:User1
+DEBUG:root:93
+DEBUG:root:User2
+DEBUG:root:95
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:93
+DEBUG:root:User1
+DEBUG:root:98
+DEBUG:root:User2
+DEBUG:root:163
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:153
+DEBUG:root:User1
+DEBUG:root:72
+DEBUG:root:User2
+DEBUG:root:103
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:173
+DEBUG:root:User1
+DEBUG:root:146
+DEBUG:root:User2
+DEBUG:root:197
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:193
+DEBUG:root:User1
+DEBUG:root:197
+DEBUG:root:User2
+DEBUG:root:193
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:158
+DEBUG:root:User1
+DEBUG:root:82
+DEBUG:root:User2
+DEBUG:root:118
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(72,)
+DEBUG:root:pre for
+DEBUG:root:57
+DEBUG:root:User1
+DEBUG:root:176
+DEBUG:root:User2
+DEBUG:root:56
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:156
+DEBUG:root:User1
+DEBUG:root:59
+DEBUG:root:User2
+DEBUG:root:100
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:136
+DEBUG:root:User1
+DEBUG:root:80
+DEBUG:root:User2
+DEBUG:root:62
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:146
+DEBUG:root:User1
+DEBUG:root:105
+DEBUG:root:User2
+DEBUG:root:71
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:159
+DEBUG:root:User1
+DEBUG:root:199
+DEBUG:root:User2
+DEBUG:root:161
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:168
+DEBUG:root:User1
+DEBUG:root:161
+DEBUG:root:User2
+DEBUG:root:164
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:98
+DEBUG:root:User1
+DEBUG:root:170
+DEBUG:root:User2
+DEBUG:root:165
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:136
+DEBUG:root:User1
+DEBUG:root:70
+DEBUG:root:User2
+DEBUG:root:111
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:142
+DEBUG:root:User1
+DEBUG:root:91
+DEBUG:root:User2
+DEBUG:root:188
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:166
+DEBUG:root:User1
+DEBUG:root:128
+DEBUG:root:User2
+DEBUG:root:195
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:157
+DEBUG:root:User1
+DEBUG:root:107
+DEBUG:root:User2
+DEBUG:root:57
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:88
+DEBUG:root:User1
+DEBUG:root:139
+DEBUG:root:User2
+DEBUG:root:199
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:78
+DEBUG:root:User1
+DEBUG:root:65
+DEBUG:root:User2
+DEBUG:root:78
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:170
+DEBUG:root:User1
+DEBUG:root:94
+DEBUG:root:User2
+DEBUG:root:175
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:155
+DEBUG:root:User1
+DEBUG:root:125
+DEBUG:root:User2
+DEBUG:root:72
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:165
+DEBUG:root:User1
+DEBUG:root:98
+DEBUG:root:User2
+DEBUG:root:126
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:184
+DEBUG:root:User1
+DEBUG:root:67
+DEBUG:root:User2
+DEBUG:root:122
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:113
+DEBUG:root:User1
+DEBUG:root:100
+DEBUG:root:User2
+DEBUG:root:183
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:193
+DEBUG:root:User1
+DEBUG:root:175
+DEBUG:root:User2
+DEBUG:root:174
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:179
+DEBUG:root:User1
+DEBUG:root:117
+DEBUG:root:User2
+DEBUG:root:106
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(111,)
+DEBUG:root:pre for
+DEBUG:root:161
+DEBUG:root:User1
+DEBUG:root:92
+DEBUG:root:User2
+DEBUG:root:169
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:pre for
+DEBUG:root:71
+DEBUG:root:User1
+DEBUG:root:149
+DEBUG:root:User2
+DEBUG:root:129
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:pre for
+DEBUG:root:88
+DEBUG:root:User1
+DEBUG:root:169
+DEBUG:root:User2
+DEBUG:root:78
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
+DEBUG:root:pre for
+DEBUG:root:142
+DEBUG:root:User1
+DEBUG:root:134
+DEBUG:root:User2
+DEBUG:root:167
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
+DEBUG:root:pre for
+DEBUG:root:92
+DEBUG:root:User1
+DEBUG:root:187
+DEBUG:root:User2
+DEBUG:root:133
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
+DEBUG:root:pre for
+DEBUG:root:196
+DEBUG:root:User1
+DEBUG:root:60
+DEBUG:root:User2
+DEBUG:root:109
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
+DEBUG:root:pre for
+DEBUG:root:71
+DEBUG:root:User1
+DEBUG:root:144
+DEBUG:root:User2
+DEBUG:root:131
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
+DEBUG:root:pre for
+DEBUG:root:144
+DEBUG:root:User1
+DEBUG:root:138
+DEBUG:root:User2
+DEBUG:root:102
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
+DEBUG:root:pre for
+DEBUG:root:84
+DEBUG:root:User1
+DEBUG:root:74
+DEBUG:root:User2
+DEBUG:root:50
+DEBUG:root:User3
+DEBUG:root:pre highest
+DEBUG:root:(68,)
